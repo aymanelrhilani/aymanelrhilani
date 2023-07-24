@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @aymanelrhilani
-- 👀 I’m interested in cyber security and networks
-- 🌱 I’m currently learning networks and telecoms
+- 👀 I’m a network and telecoms engineering student at ENSAS
+- 🌱 I’m interested in cyber security especially the offensive side .
+- I'm also intrested in web developpment,artificial intelligence ,and more it domaines.
   
 <!---
 aymanelrhilani/aymanelrhilani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
